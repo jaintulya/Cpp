@@ -5,6 +5,7 @@ int main (){
   int r;
   cin>>r;
 
+  
 cout<<r*r;
 
 

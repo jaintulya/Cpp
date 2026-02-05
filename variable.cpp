@@ -8,6 +8,7 @@ cout<<y<<"\n";
 int x=5;//both//
 cout<<x<<"\n";
 
+
 int c=5,d=9;
 cout<<c+d;
 

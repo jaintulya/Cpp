@@ -5,6 +5,7 @@ int main (){
 
 char ch ='Z';
 cout<<int(ch);
+
   //ASCII//
 //0=48
   // a=97

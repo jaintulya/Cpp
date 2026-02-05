@@ -7,6 +7,7 @@ x++;
 cout<<x<<endl;
 x--;
 cout<<x<<endl;
+
 ++x;
 cout<<x<<endl;
 --x;
